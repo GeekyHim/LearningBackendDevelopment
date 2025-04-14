@@ -1,0 +1,10 @@
+Create node project -> node init
+
+install dependency -> mongoose -> npm install mongoose
+
+create index.js -> start connectivity
+
+creating models 
+
+insert data (index.js)
+
